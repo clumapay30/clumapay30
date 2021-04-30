@@ -1,4 +1,4 @@
-### Hello there 🌌🔭
+### 🔭
 
 ![clumapay30](https://user-images.githubusercontent.com/82793186/116676266-aef2b280-a99e-11eb-8631-2d6e6918ed81.jpg)
 
