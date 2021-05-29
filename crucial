@@ -1,0 +1,24 @@
+express
+    : npm i express
+    : http://expressjs.com/en/guide/routing.html
+
+ejs
+    : npm i ejs
+    :https://www.npmjs.com/package/ejs
+
+ejsMate
+    : npm i ejs-mate
+    : https://www.npmjs.com/package/ejs-mate
+
+mongoose
+    : npm i mongoose
+    : https://www.npmjs.com/package/mongoose
+
+method-override
+    : npm i method-override
+    : https://www.npmjs.com/package/method-override
+
+joi
+    : npm i joi
+    : https://www.npmjs.com/package/joi
+
